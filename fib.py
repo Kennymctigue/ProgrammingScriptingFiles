@@ -1,4 +1,5 @@
-Week 1 Exersize
+# Kenny McTigue, 28/01/2018 
+# Week 1 Exercise
 
 # Ian McLoughlin
 # A program that displays Fibonacci numbers.
@@ -16,17 +17,15 @@ def fib(n):
   return i
 
 # Test the function with the following value.
-x = 36
+x = 36 #my name is Kenny so k=11 and y=25 - k+y=36
 ans = fib(x)
 print("Fibonacci number", x, "is", ans)
 
 
-My name is Kenny so k=11 + Y=25 = 36
-Fibonacci number 14,930,352
-
 Week 2 Task
 # Ian McLoughlin
 # A program that displays Fibonacci numbers using people's names.
+
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
@@ -53,13 +52,14 @@ print("The first letter", first, "is number", firstno)
 print("The last letter", last, "is number", lastno)
 print("Fibonacci number", x, "is", ans)
 
+# The program as it is displayed when run in python
+
+Fibonacci number 36 is 14930352
 My surname is McTigue
-
 The first letter M is number 77
-
 The last letter e is number 101
-
 Fibonacci number 178 is 7084593923980518516849609894969925639
+
 
 
 
