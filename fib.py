@@ -21,8 +21,8 @@ x = 36 #my name is Kenny so k=11 and y=25 - k+y=36
 ans = fib(x)
 print("Fibonacci number", x, "is", ans)
 
-
-Week 2 Task
+# Kenny McTigue, 03/02/2018
+# Week 2 Task
 # Ian McLoughlin
 # A program that displays Fibonacci numbers using people's names.
 
