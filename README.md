@@ -13,5 +13,4 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_number), "In ma
 
 The first exercise was to simply write a program that would deliver the nth fibonacci and to test it by asigning numeric values to the first and last letters of the programmers name. A=1, B=2 etc This programmers name is Kenny so the numbers were 11 and 25 making 36.
 
-Tsecond exercisehe 
-The ord() method returns an integer representing Unicode code point for the given Unicode character.
+The second exercise was to add another layer to the program by establishing the Unicode values to the first and last letters of the programmers surname.  This was done by using the ord() method function. The ord() method returns an integer representing Unicode code point for the given Unicode character.
