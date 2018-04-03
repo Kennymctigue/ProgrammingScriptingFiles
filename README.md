@@ -9,4 +9,4 @@ This exercise is located in the fib.py file in the ProgrammingScriptingFiles rep
 ### Summary of the exercises ###
 This task was first to write a program in Python that would deliver the nth fibonacci number. 
 
-According to  [Wikipedia] (https://en.wikipedia.org/wiki/Fibonacci_number) "In mathematics, the Fibonacci numbers are the numbers in the following integer sequence, called the Fibonacci sequence, and characterized by the fact that every number after the first two is the sum of the two preceding ones"
+According to [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_number), "In mathematics, the Fibonacci numbers are the numbers in the following integer sequence, called the Fibonacci sequence, and characterized by the fact that every number after the first two is the sum of the two preceding ones"
