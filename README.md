@@ -14,3 +14,10 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_number), "In ma
 The first exercise was to define a function that would deliver the nth fibonacci and to test it by asigning numeric values to the first and last letters of the programmer's name. A=1, B=2 etc. This programmer's name is Kenny so the numbers were 11 and 25 making 36.
 
 The second exercise was to add another layer to the program by establishing the Unicode decimal number values to the first and last letters of the programmers surname.  This was done by using the ord() method function. The ord() method returns an integer representing Unicode code point for the given Unicode character. [Unicode is a computing industry standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems](https://en.wikipedia.org/wiki/Unicode). A table showing the different number values for each latin letter type can be seen [here](https://unicodelookup.com/)
+
+
+
+
+
+https://study.com/academy/lesson/history-of-the-collatz-conjecture.html
+https://stackoverflow.com/questions/13366830/collatz-conjecture-sequence
