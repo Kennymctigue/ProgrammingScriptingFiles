@@ -19,9 +19,6 @@ The second exercise was to add another layer to the program by establishing the 
 ### Exercise 3 - Collatz Conjecture
 This exercise is located in the collatz.py file in the ProgrammingScriptingFiles repository
 
+This exercise was to write a program that would demonstrate the collatz conjecture. The Collatz conjecture is a mathematical sequence that always arrives at 1.  It is run as follows:  Take any positive integer,n.  Two rules are then to be followed.  If the number is evenly divisible by 2, then divide by two, otherwise multiply by 3 and add 1.  Keep repeating whichever of these actions is appropriate to your answer and one will eventually arrive at 1.  Some history of the Collatz conjecture is [here](https://study.com/academy/lesson/history-of-the-collatz-conjecture.html)
 
-
-
-
-https://study.com/academy/lesson/history-of-the-collatz-conjecture.html
-https://stackoverflow.com/questions/13366830/collatz-conjecture-sequence
+To write the program I used a "while" loop stating for the loop to continue until input number was reduced to 1 and included the two rules as stated above within the loop.  I also included an input option for the user of the program to enter the integer of their choice.  [Stackoverflow](https://stackoverflow.com/questions/13366830/collatz-conjecture-sequence) was a useful reference in writing this program
