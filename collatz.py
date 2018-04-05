@@ -12,3 +12,24 @@ while n > 1: #continue loop until the input number is reduced to 1
     else:
         n = (n * 3)+1 #multiply the number by 3 and add 1
     print (n) #print the eventual value of n
+    
+    
+    #Answer when run in python using integer 15 as example
+    Enter any integer number:15
+46
+23.0
+70.0
+35.0
+106.0
+53.0
+160.0
+80.0
+40.0
+20.0
+10.0
+5.0
+16.0
+8.0
+4.0
+2.0
+1.0
