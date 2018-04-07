@@ -21,6 +21,10 @@ while r != 0: # loop that runs until the reminder from the for loop is equal to 
 
   n = n + 2520 #add the base amount to n to go back to the begining of the loop
 
-print("The smallest real number divisible by each number from 1-20 is", n - 2520)
+print("The smallest real number divisible by each number from 1-20 is", n - 2520) #
 
 
+Answer when run in python
+
+The smallest real number divisible by each number from 1-20 is
+232792560
