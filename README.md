@@ -23,13 +23,10 @@ This exercise was to write a program that would demonstrate the collatz conjectu
 
 To write the program I used a "while" loop stating for the loop to continue until input number was reduced to 1 and included the two rules as stated above within the loop.  I also included an input option for the user of the program to enter the integer of their choice.  [Stackoverflow](https://stackoverflow.com/questions/13366830/collatz-conjecture-sequence) was a useful reference in writing this program
 
-### Exercise 4 - Project Euler Number 5
-This exercise is located in the .py filprojecteuler5.py in the ProgrammingScriptingFiles repository
+### Exercise 4 - Project Euler Problem Number 5
+This exercise is located in the projecteuler5.py in the ProgrammingScriptingFiles repository
 
-["Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."](https://projecteuler.net/)
+Project Euler is a set of over 600 problems named after [Leonard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler).  They are designed to test the ability of programmers and encourage logical and creative thought in programming.  From the Project Euler website ["Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."](https://projecteuler.net/)
 
-https://projecteuller.net/problem=5
-https://stackoverflow.com/questions/8024911/project-euler-5-in-python-how-can-i-optimize-my-solution
-https://stackoverflow.com/questions/31840761/project-euler-5-using-python?rq=1
-https://code.mikeyaworski.com/python/project_euler/problem_5
-http://code.jasonbhill.com/python/project-euler-problem-5/
+For this task we were to attempt to solve problem [number 5](https://projecteuller.net/problem=5) using a "for" loop. For this exercise I consulted a number of online resources which I have listed in the file along with the lectures and the python tutorial.  After numerous failures I eventually got a solution, based on parts from these resources that worked but took a long time to run.  I took this framework as my base and made changes piecemeal until I had something that ran a bit faster. 
+
