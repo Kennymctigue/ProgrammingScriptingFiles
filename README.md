@@ -22,3 +22,14 @@ This exercise is located in the collatz.py file in the ProgrammingScriptingFiles
 This exercise was to write a program that would demonstrate the collatz conjecture. The Collatz conjecture is a mathematical sequence that always arrives at 1.  It is run as follows:  Take any positive integer,n.  Two rules are then to be followed.  If the number is evenly divisible by 2, then divide by two, otherwise multiply by 3 and add 1.  Keep repeating whichever of these actions is appropriate to your answer and one will eventually arrive at 1.  Some history of the Collatz conjecture is [here](https://study.com/academy/lesson/history-of-the-collatz-conjecture.html)
 
 To write the program I used a "while" loop stating for the loop to continue until input number was reduced to 1 and included the two rules as stated above within the loop.  I also included an input option for the user of the program to enter the integer of their choice.  [Stackoverflow](https://stackoverflow.com/questions/13366830/collatz-conjecture-sequence) was a useful reference in writing this program
+
+### Exercise 4 - Project Euler Number 5
+This exercise is located in the .py filprojecteuler5.py in the ProgrammingScriptingFiles repository
+
+["Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."](https://projecteuler.net/)
+
+https://projecteuller.net/problem=5
+https://stackoverflow.com/questions/8024911/project-euler-5-in-python-how-can-i-optimize-my-solution
+https://stackoverflow.com/questions/31840761/project-euler-5-using-python?rq=1
+https://code.mikeyaworski.com/python/project_euler/problem_5
+http://code.jasonbhill.com/python/project-euler-problem-5/
