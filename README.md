@@ -40,6 +40,8 @@ For this task I again used a combination of the lectures,the python tutorial and
 ### Exercise 6 - Factorial
 This exercise is located in the file factorial.py in the ProgrammingScriptingFiles repository
 
+The [Factorial](https://en.wikipedia.org/wiki/Factorial) of a non-negative integer n, denoted by n!, is the product of all positive integers less than or equal to n. For example, {\displaystyle 5!=5\times 4\times 3\times 2\times 1=120.}
+
 
 
 
