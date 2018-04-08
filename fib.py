@@ -52,8 +52,8 @@ print("The first letter", first, "is number", firstno)
 print("The last letter", last, "is number", lastno)
 print("Fibonacci number", x, "is", ans)
 
-# The program as it is displayed when run in python
-
+# The program as it is displayed when run in pytho
+PS C:\Users\Kenny\Documents\DataAnalytics\ProgrammingScripting\Exercises> python fib.py
 Fibonacci number 36 is 14930352
 My surname is McTigue
 The first letter M is number 77
