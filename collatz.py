@@ -14,16 +14,12 @@ while n > 1: #continue loop until the input number is reduced to 1
     print (n) #print the eventual value of n
     
     
-    #Answer when run in python using integer 15 as example
-    Enter any integer number:15
-46
-23.0
-70.0
-35.0
-106.0
-53.0
-160.0
-80.0
+   # program when run in python with a starting value of 17
+PS C:\Users\Kenny\Documents\DataAnalytics\ProgrammingScripting\Exercises> python collatz.py
+Enter any integer number:17
+52
+26.0
+13.0
 40.0
 20.0
 10.0
@@ -33,3 +29,5 @@ while n > 1: #continue loop until the input number is reduced to 1
 4.0
 2.0
 1.0
+
+
