@@ -28,10 +28,13 @@ This exercise is located in the file projecteuler5.py in the ProgrammingScriptin
 
 Project Euler is a set of over 600 problems named after [Leonard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler).  They are designed to test the ability of programmers and encourage logical and creative thought in programming.  From the Project Euler website ["Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."](https://projecteuler.net/)
 
-For this task we were to attempt to solve problem [number 5](https://projecteuller.net/problem=5) using a "for" loop. For this exercise I consulted a number of online resources which I have listed in the file along with drawing from the lectures and the python tutorial.  After numerous failures I eventually got a solution, based on parts from these resources that worked but took a long time to run.  I took this framework as my base and made small changes piecemeal until I had something that ran faster. 
+For this task we were to attempt to solve problem [number 5](https://projecteuller.net/problem=5) using a "for" loop. For this exercise I consulted a number of online resources which I have listed in the file along with drawing from the lectures and the python tutorial.  After numerous failures I eventually got a solution, based on parts from these resources that worked but took a long time to run.  I took this framework as my base and made small changes piecemeal until I had something that ran faster. This was the most challenging of all the exercises we were tasked with.
 
 ### Exercise 5 - Openfile - Iris
-This exercise is located in the files openfile.py and openfile2.py in the ProgrammingScriptingFiles repository
+This exercise is located in the file openfile.py in the ProgrammingScriptingFiles repository
 
-The task in this exercise was to display the [Iris Data set](https://en.wikipedia.org/wiki/Iris_flower_data_set) in presentable format.  I found two ways to do this so I have posted both in the repository
+The task in this exercise was to display the first four columns [Iris Data set](https://en.wikipedia.org/wiki/Iris_flower_data_set) in presentable format.
+
+For this task it was again a combination of the lectures,the python tutorial and [stackoverflow](https://stackoverflow.com/questions/8234445/python-format-output-string-right-alignment). The Iris data set was downloaded and stored on the local drive. Before I opened it with the program I manually set to print the four headings as I couldn't figure a way to include them as part of the program and still get the alignment correct.  Then I opened the data file in the program using "with" and "open" and commanded to print the first four columns aligned to the right to line up with the manually entered headings.  Using line split I could identify the columns I required.  I couldn't align them as per the lectures so I researched ways and came up the solution as per the program.
+
 
