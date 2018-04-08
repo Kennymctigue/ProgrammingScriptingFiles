@@ -40,8 +40,11 @@ For this task I again used a combination of the lectures,the python tutorial and
 ### Exercise 6 - Factorial
 This exercise is located in the file factorial.py in the ProgrammingScriptingFiles repository
 
-The [Factorial](https://en.wikipedia.org/wiki/Factorial) of a non-negative integer n, denoted by n!, is the product of all positive integers less than or equal to n. For example, {\displaystyle 5!=5\times 4\times 3\times 2\times 1=120.}
+The [Factorial](https://en.wikipedia.org/wiki/Factorial) of a non-negative integer n, denoted by n!, is the product of all positive integers less than or equal to n. For example, 5! = 5*4*3*2*1 = 120
 
+This task was to write a program in python that would calculate the factorial of any given non-negative integer.  After a few failed attempts at writing a program that started at one and looped towards the number to find the factorial of, I changed and came from the angle of starting with the number and looping back to 1 as the answer increased to deliver the factorial at the end.  Again parts from the lectures, the python tutorial and [stackoverflow](https://stackoverflow.com/questions/5136447/function-for-factorial-in-python) were combined to find a solution.
 
+## Note on the above exercises
+Apart from the technical learning involved in the above exercises, what I have learnt in completeing this summary is the importance of documenting resources and thought processes as you write programs.  There are many references that I have not included as I failed to note them as I wrote the programs.  Likewise there are many reasonings and logical thought processes that ought to be included as to say "it made sense to me at the time" is not sifficient. 
 
 
