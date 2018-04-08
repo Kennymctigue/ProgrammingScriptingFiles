@@ -33,8 +33,13 @@ For this task we were to attempt to solve problem [number 5](https://projecteull
 ### Exercise 5 - Openfile - Iris
 This exercise is located in the file openfile.py in the ProgrammingScriptingFiles repository
 
-The task in this exercise was to display the first four columns [Iris Data set](https://en.wikipedia.org/wiki/Iris_flower_data_set) in presentable format.
+The task in this exercise was to display the first four columns of the [Iris Data set](https://en.wikipedia.org/wiki/Iris_flower_data_set) in presentable format.
 
-For this task it was again a combination of the lectures,the python tutorial and [stackoverflow](https://stackoverflow.com/questions/8234445/python-format-output-string-right-alignment). The Iris data set was downloaded and stored on the local drive. Before I opened it with the program I manually set to print the four headings as I couldn't figure a way to include them as part of the program and still get the alignment correct.  Then I opened the data file in the program using "with" and "open" and commanded to print the first four columns aligned to the right to line up with the manually entered headings.  Using line split I could identify the columns I required.  I couldn't align them as per the lectures so I researched ways and came up the solution as per the program.
+For this task I again used a combination of the lectures,the python tutorial and [stackoverflow](https://stackoverflow.com/questions/8234445/python-format-output-string-right-alignment). The Iris data set was downloaded and stored on the local drive. Before I opened it with the program I manually set to print the four headings as I couldn't figure a way to include them as part of the program and still get the alignment correct.  Then I opened the data file in the program using "with" and "open" and commanded to print the first four columns aligned to the right to line up with the manually entered headings.  Using line split I could identify the columns I required.  I couldn't align them as per the lectures so I researched ways and came up the solution as per the program.
+
+### Exercise 6 - Factorial
+This exercise is located in the file factorial.py in the ProgrammingScriptingFiles repository
+
+
 
 
