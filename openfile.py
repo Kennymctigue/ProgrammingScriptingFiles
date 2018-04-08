@@ -9,7 +9,8 @@ with open ("data/iris.csv") as f: # to open the data file stored in a folder on 
     for line in f:
         print ("{:>12} {:>12} {:>13} {:>12}" .format(line.split(',')[0],line.split(',')[1],line.split(',')[2],line.split(',')[3])) #using line split and identifying the columns requied for the report. The columns alinged justified right by the {:>} commands.
 
-Program as it looks when run in python
+# Program as it looks when run in python
+PS C:\Users\Kenny\Documents\DataAnalytics\ProgrammingScripting\Exercises> python openfile2.py
 petal length  petal width  sepal length  sepal width
          5.1          3.5           1.4          0.2
          4.9          3.0           1.4          0.2
